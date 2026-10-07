@@ -1,0 +1,5 @@
+yourname           = "yourname"
+location           = "centralus"
+sql_admin_login    = "sqladmin"
+sql_admin_password = "CHANGE_ME"
+alert_email        = "you@example.com"
